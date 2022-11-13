@@ -14,7 +14,7 @@
     "notActive": "❌ | **No Active Group Call!**",
     "notPlaying": "❌ | **Nothing Is Playing!**",
     "spotifyNotEnabled": "❌ | **Spotify Is Not Enabled!**",
-    "playing": "▶️ **[%s](%s)**\n⏱ **Duration:** `%s`\n💬 **Playing On:** `%s`\n🎧 **Requested By:** %s",
+    "playing": "▶️ **[%s](%s)**\n⏱ **Duration:** `%s`\n💬 **Playing On:** `%s`\n🎧 **Requested By:** %s\nJoin :- @CrushBotSupport",
     "paused": "⏸ | **Paused Stream!**",
     "resumed": "▶️ | **Resumed Stream!**",
     "muted": "🔇 | **Muted Stream!**",
