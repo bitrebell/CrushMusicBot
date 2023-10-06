@@ -55,7 +55,7 @@ thanks to the translators.
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Darkranger00/CrushMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/bitrebell/CrushMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
 
@@ -64,7 +64,7 @@ Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
 
 - Legecy Method
 ```bash
-$ git clone https://github.com/AsmSafone/MusicPlayer
+$ git clone https://github.com/bitrebell/CrushMusicBot
 $ cd MusicPlayer
 $ sudo apt install git curl python3-pip ffmpeg -y
 $ pip3 install -U pip
@@ -80,7 +80,7 @@ $ python3 main.py
 Or you can use this One-Liner to save your time :
 
 ```
-git clone https://github.com/AsmSafone/MusicPlayer && cd MusicPlayer && sudo apt install git curl python3-pip ffmpeg -y && pip3 install -U pip && curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash - && sudo apt install -y nodejs && sudo apt install build-essential && sudo npm install pm2@latest -g && pip3 install -U -r requirements.txt
+git clone https://github.com/bitrebell/CrushMusicBot && cd MusicPlayer && sudo apt install git curl python3-pip ffmpeg -y && pip3 install -U pip && curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash - && sudo apt install -y nodejs && sudo apt install build-essential && sudo npm install pm2@latest -g && pip3 install -U -r requirements.txt
 ```
 Make sure to edit the .env file accordingly,
 ```
